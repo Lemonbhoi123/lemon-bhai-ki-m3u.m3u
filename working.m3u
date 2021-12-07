@@ -4,10 +4,18 @@
 https://istreamiptv.gq/api1cdn/zee5/z5@tv.m3u8?uid=hunter2004gaming_452096&c=0-9-tvhd_0
 
 #EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png",&TV HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://opplex.tv:8080/live/irfan/irfan/109952.m3u8
+
+#EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png",&TV HD
 https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-tvhd_0
 
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"",Zee TV HD
 http://istreamiptv.gq/api1cdn/zee5/z5@tv.m3u8?uid=hunter2004gaming_452096&c=0-9-zeetvhd
+
+#EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"",Zee TV HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://opplex.tv:8080/live/irfan/irfan/109950.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"",Zee TV HD
 https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeetvhd
@@ -174,6 +182,9 @@ http://opplex.tv:8080/live/irfan/irfan/66177.m3u8
 http://starshare.live:8080/live/10191817/10191817/9375.m3u8
 
 #EXTINF:-1 tvg-id="IN | STAR GOLD-HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20GOLD%20HD.png",Star Gold HD
+http://pakiptv.top:8880/live/20/20/8581.m3u8
+
+#EXTINF:-1 tvg-id="IN | STAR GOLD-HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20GOLD%20HD.png",Star Gold HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUzDmhEv4SA6IEud-GX48L4/m3u8
 
@@ -239,6 +250,10 @@ https://istreamiptv.gq/api1cdn/zee5/z5@tv.m3u8?uid=hunter2004gaming_452096&c=0-9
 #EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://assets.rstream.me/images/j/lWYvzXvdTw.png",&Pictures HD
 https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-tvpictureshd
 
+#EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://assets.rstream.me/images/j/lWYvzXvdTw.png",&Pictures HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://opplex.tv:8080/live/irfan/irfan/66183.m3u8
+
 #EXTINF:-1 tvg-id="0-9-pictures" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/andpictures.png",&Pictures
 https://istreamiptv.gq/api1cdn/zee5/z5@tv.m3u8?uid=hunter2004gaming_452096&c=0-9-pictures
 
@@ -247,6 +262,10 @@ https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-pictures
 
 #EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
 https://istreamiptv.gq/api1cdn/zee5/z5@tv.m3u8?uid=hunter2004gaming_452096&c=0-9-zeecinemahd
+
+#EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://opplex.tv:8080/live/irfan/irfan/206308.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
 https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeecinemahd
