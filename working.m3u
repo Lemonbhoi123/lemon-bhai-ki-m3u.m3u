@@ -1,6 +1,9 @@
 #EXTM3U url-tvg="https://botallen.live/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png",&TV HD
+http://208.86.19.21/703.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png",&TV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://opplex.tv:8080/live/irfan/irfan/109952.m3u8
 
@@ -143,8 +146,14 @@ https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3
 https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN| STAR SPORTS 1 HINDI FHD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/Star%20Sports%201%20HD%20HINDI%20(NEW).png",Star Sports 1 HD (Hindi)
+http://208.86.19.21/724.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN| STAR SPORTS 1 HINDI FHD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/Star%20Sports%201%20HD%20HINDI%20(NEW).png",Star Sports 1 HD (Hindi)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://opplex.tv:8080/live/irfan/irfan/109986.m3u8
+
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 HINDI HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/PicsArt_11-28-02.40.50.png",Star Sports 1 HD
+http://208.86.19.21/710.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 HINDI HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/PicsArt_11-28-02.40.50.png",Star Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -155,6 +164,9 @@ http://opplex.tv:8080/live/irfan/irfan/109987.m3ui
 http://opplex.tv:8080/live/irfan/irfan/109988.m3u8
 
 #EXTINF:-1 tvg-name="IN| STAR SPORTS 3" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/Star%20Sports%203.png",Star Sports 3 
+http://208.86.19.21/732.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="IN| STAR SPORTS 3" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/Star%20Sports%203.png",Star Sports 3 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://opplex.tv:8080/live/irfan/irfan/167577.m3u8
 
@@ -162,9 +174,17 @@ http://opplex.tv:8080/live/irfan/irfan/167577.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://opplex.tv:8080/live/irfan/irfan/109993.m3u8
 
+#EXTINF:-1 tvg-id="starsportsselect1hd" tvg-name="IN| STAR SPORTS SELECT 1 FHD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/UTV-HD.png/main/Star%20Sports%20Select%201%20HD.png",Star Sports Select 1 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://208.86.19.21/736.stream/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="starsportsselect2hd" tvg-name="IN| STAR SPORTS SELECT 2 FHD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/UTV-HD.png/main/Star%20Sports%20Select%202%20HD%20.png",Star Sports Select 2 HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://opplex.tv:8080/live/irfan/irfan/109994.m3u8
+
+#EXTINF:-1 tvg-id="starsportsselect2hd" tvg-name="IN| STAR SPORTS SELECT 2 FHD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/UTV-HD.png/main/Star%20Sports%20Select%202%20HD%20.png",Star Sports Select 2 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://208.86.19.21/737.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="IN | STAR GOLD-HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20GOLD%20HD.png",Star Gold HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -199,7 +219,14 @@ http://opplex.tv:8080/live/irfan/irfan/66176.m3u8
 
 #EXTINF:-1 tvg-id="IN | STAR GOLD SELECT HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/stargoldselecthd.png",Star Gold Select HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://208.86.19.21/709.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="IN | STAR GOLD SELECT HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/stargoldselecthd.png",Star Gold Select HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZhUT1u9TMmOpA-lYHQBs2o/m3u8
+
+#EXTINF:-1 tvg-id="UTV.uk" tvg-name="IN| UTV HD HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/UTV%20HD.png",UTV HD
+http://208.86.19.21/723.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="UTV.uk" tvg-name="IN| UTV HD HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/UTV%20HD.png",UTV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -254,6 +281,9 @@ https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
 http://opplex.tv:8080/live/irfan/irfan/66183.m3u8
 
 #EXTINF:-1 tvg-id="0-9-pictures" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/andpictures.png",&Pictures
+http://208.86.19.21/705.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="0-9-pictures" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/andpictures.png",&Pictures
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://opplex.tv:8080/live/irfan/irfan/66181.m3u8
 
@@ -268,6 +298,7 @@ http://opplex.tv:8080/live/irfan/irfan/206307.m3u8
 #EXTINF:-1 tvg-id="0-9-zeecinema" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",Zee Cinema
 
 #EXTINF:-1 tvg-id="0-9-zeeaction" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_web/1170x658withlog_1953200347.png",Zee Action
+http://208.86.19.21/728.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="0-9-176" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/ZeeClassic.png",Zee Classic
 
