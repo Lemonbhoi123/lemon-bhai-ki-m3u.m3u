@@ -174,12 +174,6 @@ http://opplex.tv:8080/live/irfan/irfan/109993.m3u8
 http://opplex.tv:8080/live/irfan/irfan/109994.m3u8
 
 #EXTINF:-1 tvg-id="IN | STAR GOLD-HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20GOLD%20HD.png",Star Gold HD
-http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/86170.ts
-
-#EXTINF:-1 tvg-id="IN | STAR GOLD-HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20GOLD%20HD.png",Star Gold HD
-http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/87297.ts
-
-#EXTINF:-1 tvg-id="IN | STAR GOLD-HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20GOLD%20HD.png",Star Gold HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://opplex.tv:8080/live/irfan/irfan/66178.m3u8
 
@@ -196,6 +190,12 @@ http://pakiptv.top:8880/live/20/20/8581.m3u8
 #EXTINF:-1 tvg-id="IN | STAR GOLD-HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20GOLD%20HD.png",Star Gold HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUzDmhEv4SA6IEud-GX48L4/m3u8
+
+#EXTINF:-1 tvg-id="IN | STAR GOLD-HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20GOLD%20HD.png",Star Gold HD
+http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/86170.ts
+
+#EXTINF:-1 tvg-id="IN | STAR GOLD-HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20GOLD%20HD.png",Star Gold HD
+http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/87297.ts
 
 #EXTINF:-1 tvg-id="IN | STAR GOLD-HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20GOLD%20HD.png",Star Gold HD
 http://starshare.live:8080/live/10191817/10191817/194.m3u8
@@ -290,12 +290,8 @@ https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd
 
 #EXTINF:-1 tvg-id="COLORS CINEPLEX" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",Colors Cineplex 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://jo123.biz/jweb/m3u8.php?c=Colors_Cineplex&q=800
 
 #EXTINF:-1 tvg-id="1158" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/UTV-HD.png/main/RishteyCineplex.in.png",Rishtey Cineplex
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://jo123.biz/jweb/m3u8.php?c=Rishtey_Cineplex&q=800
 
 #EXTINF:-1 tvg-id="9XM" tvg-name="IN| 9XM" tvg-logo="https://akamaividz.zee5.com/resources/0-9-131/list/386x386/091319xm.png",9XM
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
@@ -388,10 +384,6 @@ http://opplex.tv:8080/live/irfan/irfan/150478.m3u8
 
 #EXTINF:-1 tvg-name="Cartoon Network Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://jo123.biz/jweb/m3u8.php?c=Cartoon_Network_Hindi&q=1200
-
-#EXTINF:-1 tvg-name="Cartoon Network Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsT3TtQ7sBOyFLXu4_0Mwqro/m3u8
 
 #EXTINF:-1 tvg-name="Nick Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",Nick
@@ -400,19 +392,11 @@ http://opplex.tv:8080/live/irfan/irfan/150482.m3u8
 
 #EXTINF:-1 tvg-name="Nick Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",Nick
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://jo123.biz/jweb/m3u8.php?c=Nick_Hindi&q=1200
-
-#EXTINF:-1 tvg-name="Nick Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",Nick
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVAYvyyMijVT4XeDq_wco4M/m3u8
 
 #EXTINF:-1 tvg-name="POGO Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png",POGO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://opplex.tv:8080/live/irfan/irfan/150483.m3u8
-
-#EXTINF:-1 tvg-name="POGO Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png",POGO
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://jo123.biz/jweb/m3u8.php?c=Pogo_Hindi&q=1200
 
 #EXTINF:-1 tvg-name="POGO Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png",POGO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
