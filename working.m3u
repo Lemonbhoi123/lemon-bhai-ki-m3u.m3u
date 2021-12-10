@@ -1,41 +1,10 @@
 #EXTM3U url-tvg="https://botallen.live/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png",&TV HD
-http://208.86.19.21/703.stream/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png",&TV HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://snehtv.in1.bitmana.io/snehjio/jioplay.php?c=And_TV_HD
-https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=And_TV_HD&q=1200&e=.m3u8
-
-#EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png",&TV HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://opplex.tv:8080/live/irfan/irfan/66173.m3u8
-
-#EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png",&TV HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://opplex.tv:8080/live/irfan/irfan/109952.m3u8
-
-#EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png",&TV HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://opplex.tv:8080/live/irfan/irfan/66172.m3u8
+https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-tvhd_0
 
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"",Zee TV HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://snehtv.in1.bitmana.io/snehjio/jioplay.php?c=Zee_TV_HD
-https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=Zee_TV_HD&q=1200&e=.m3u8
-
-#EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"",Zee TV HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://opplex.tv:8080/live/irfan/irfan/66163.m3u8
-
-#EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"",Zee TV HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://opplex.tv:8080/live/irfan/irfan/109950.m3u8
-
-#EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"",Zee TV HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://opplex.tv:8080/live/irfan/irfan/66162.m3u8
+https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeetvhd
 
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/starplushd.png",Star Plus HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -64,9 +33,6 @@ http://starshare.live:8080/live/10191817/10191817/3744.m3u8
 
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/starplushd.png",Star Plus HD
 http://starshare.live:8080/live/10191817/10191817/167.m3u8
-
-#EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/starplushd.png",Star Plus HD
-http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/starplussd.png",Star Plus
 
@@ -131,9 +97,6 @@ http://opplex.tv:8080/live/irfan/irfan/109947.m3u8
 http://starshare.live:8080/live/10191817/10191817/9370.m3u8
 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
-http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/86174.ts
-
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVmKXFX-4nkf4OK9h08Ktlc/m3u8
 
@@ -143,9 +106,6 @@ http://opplex.tv:8080/live/irfan/irfan/66167.m3u8
 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 http://starshare.live:8080/live/10191817/10191817/195.m3u8
-
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
-http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="colorsrishtey.in" tvg-name="IN| RISHTEY COLORS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png",Rishtey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -270,41 +230,22 @@ https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
 
 #EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://assets.rstream.me/images/j/lWYvzXvdTw.png",&Pictures HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://opplex.tv:8080/live/irfan/irfan/66183.m3u8
-
-#EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://assets.rstream.me/images/j/lWYvzXvdTw.png",&Pictures HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://snehtv.in1.bitmana.io/snehjio/jioplay.php?c=And_Pictures_HD
-https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=And_Pictures_HD&q=1200&e=.m3u8
+https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-tvpictureshd
 
 #EXTINF:-1 tvg-id="0-9-pictures" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/andpictures.png",&Pictures
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://opplex.tv:8080/live/irfan/irfan/66181.m3u8
-
-#EXTINF:-1 tvg-id="0-9-pictures" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/andpictures.png",&Pictures
-http://208.86.19.21/705.stream/tracks-v1a1/mono.m3u8
+https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-pictures
 
 #EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://opplex.tv:8080/live/irfan/irfan/206308.m3u8
-
-#EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://opplex.tv:8080/live/irfan/irfan/206307.m3u8
-
-#EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://snehtv.in1.bitmana.io/snehjio/jioplay.php?c=Zee_Cinema_HD
-https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=Zee_Cinema_HD&q=1200&e=.m3u8
+https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeecinemahd
 
 #EXTINF:-1 tvg-id="0-9-zeecinema" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",Zee Cinema
-
+https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeecinema
 
 #EXTINF:-1 tvg-id="0-9-zeeaction" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_web/1170x658withlog_1953200347.png",Zee Action
-http://208.86.19.21/728.stream/tracks-v1a1/index.m3u8
+https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeeaction
 
 #EXTINF:-1 tvg-id="0-9-176" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/ZeeClassic.png",Zee Classic
+https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-176
 
 #EXTINF:-1 tvg-id="SONY WAH" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_wah.png",Sony Wah
 https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
@@ -340,6 +281,7 @@ https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
 https://ilove.livebox.co.in/wowinhls/live.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zing" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zing/channel_web/1170x658withlogo_895666865.png" ,Zing
+ https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zing
  
  #EXTINF:-1 tvg-id="753" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",MTV Beats HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -355,6 +297,7 @@ https://livevoot-i.akamaihd.net/dash/live/828545/mtvhd/master.mpd
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/aajtakhd_5/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeehindustan" tvg-logo="https://play-lh.googleusercontent.com/YmLU-A_hRbIdDJTn7XrstWZYb4ruDh7cKAWZqCM-mgOPezOtV3hVFpSQNy3bvTPhulU",Zee Hindustan
+https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeehindustan
 
 #EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/gnttv-logo.png",GNT
 https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_5/chunklist.m3u8
@@ -363,6 +306,7 @@ https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_5/chunklist.m
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
 
 #EXTINF: -1 tvg-id="499" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png",News Nation
+https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-170
 
 #EXTINF:-1,India News
 https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in_480p/index.m3u8
