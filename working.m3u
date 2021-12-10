@@ -2,11 +2,11 @@
 
 #EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png",&TV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://opplex.tv:8080/live/irfan/irfan/109952.m3u8
+http://opplex.tv:8080/live/irfan/irfan/66173.m3u8
 
 #EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png",&TV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://opplex.tv:8080/live/irfan/irfan/66173.m3u8
+http://opplex.tv:8080/live/irfan/irfan/109952.m3u8
 
 #EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png",&TV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -14,18 +14,15 @@ http://opplex.tv:8080/live/irfan/irfan/66172.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"",Zee TV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://opplex.tv:8080/live/irfan/irfan/109950.m3u8
-
-#EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"",Zee TV HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://opplex.tv:8080/live/irfan/irfan/66163.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"",Zee TV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://opplex.tv:8080/live/irfan/irfan/66162.m3u8
+http://opplex.tv:8080/live/irfan/irfan/109950.m3u8
 
-#EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/starplushd.png",Star Plus HD
-http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/86172.ts
+#EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"",Zee TV HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://opplex.tv:8080/live/irfan/irfan/66162.m3u8
 
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/starplushd.png",Star Plus HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -34,6 +31,9 @@ http://opplex.tv:8080/live/irfan/irfan/66208.m3u8
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/starplushd.png",Star Plus HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://opplex.tv:8080/live/irfan/irfan/109949.m3u8
+
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/starplushd.png",Star Plus HD
+http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/86172.ts
 
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/starplushd.png",Star Plus HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -99,18 +99,18 @@ https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
-http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/86174.ts
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://opplex.tv:8080/live/irfan/irfan/66168.m3u8
 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://opplex.tv:8080/live/irfan/irfan/109947.m3u8
 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://opplex.tv:8080/live/irfan/irfan/66168.m3u8
+http://starshare.live:8080/live/10191817/10191817/9370.m3u8
 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
-http://starshare.live:8080/live/10191817/10191817/9370.m3u8
+http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/86174.ts
 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
