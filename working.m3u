@@ -286,7 +286,7 @@ https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=Colors_Cineplex&q=800&e=.m3u
 #KODIPROP:inputstream.adaptive.license_key=https://snehtv.in1.bitmana.io/snehjio/jioplay.php?c=Rishtey_Cineplex
 https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=Rishtey_Cineplex&q=800&e=.m3u8
 
-#EXTINF:-1 tvg-id="9XM" tvg-name="IN| 9XM" tvg-logo="https://akamaividz.zee5.com/resources/0-9-131/list/386x386/091319xm.png",9XM
+#EXTINF:-1 tvg-id="" tvg-name="IN| 9XM" tvg-logo="https://akamaividz.zee5.com/resources/0-9-131/list/386x386/091319xm.png",9XM
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="Showbox" tvg-logo="https://www.showboxchannel.com/wp-content/uploads/2021/08/showbox_logo.png",Showbox
@@ -301,7 +301,7 @@ https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
 #EXTINF:-1 tvg-name="iLove" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/iLove.png", iLove
 https://ilove.livebox.co.in/wowinhls/live.m3u8
 
-#EXTINF:-1 tvg-id="0-9-zing" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zing/channel_web/1170x658withlogo_895666865.png" ,Zing
+#EXTINF:-1 tvg-id="Zing" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zing/channel_web/1170x658withlogo_895666865.png" ,Zing
  https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zing
  
  #EXTINF: -1 tvg-id="250" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png", Music India
@@ -319,13 +319,13 @@ https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODg0MjM4MCIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJtdHZoZExpdmVfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZk4zSllLb2kxVGJlNk5oeGZOYVM1b0wtTDJsdm1vMU93WGQ0SEhxaVZvSDRKQ1QyQlpKWmZRUTE2Y0JjME16NmFmWnlnUFFSYnJXYXB1YTV0bEd5dlB6N0lLcXhYODZ3dnA2SFJQa1B6Y2JxUmFaN0dMaS1sZjYwOFhPWG1mVlpHMVFkT2ZVLXhnOFo0QjZVT2tEa3NaUWZNVnRycHFqUWhVSHV4Z0JvWlI1MmU2N1d2TGVSVTR0aTNoYjZ4NVk2WFhvX2Qtb2tGdFQwRFFNVUhIdTZTSzRXXzd2TUh0QmZteVFvZE9aV043SFVZdGVBMnJrNGpGeTVtY3dXV1BseVVwLXpIeHF4eUV4TGh2NDJiUmYyQ3NXMXdiSDhJanVpa3p1M1lhc3lVdnJ0MXBnMm5Yc090M3B4N2ZjVnRSanh3N2VXOUhsT2p2bWduQ0VRbEJoWDYyOD0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=7DycovFUtsF45qAdOZO1%2blTppLs%3d
 https://livevoot-i.akamaihd.net/dash/live/828545/mtvhd/master.mpd
 
-#EXTINF:-1 tvg-name="Aaj Tak" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/Ajjtakhd.png",Aaj Tak HD
+#EXTINF:-1 tvg-name="Aaj Tak HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/Ajjtakhd.png",Aaj Tak HD
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/aajtakhd_5/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeehindustan" tvg-logo="https://play-lh.googleusercontent.com/YmLU-A_hRbIdDJTn7XrstWZYb4ruDh7cKAWZqCM-mgOPezOtV3hVFpSQNy3bvTPhulU",Zee Hindustan
 https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeehindustan
 
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="Good News Today" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/gnttv-logo.png",Good News Today
+#EXTINF:-1 tvg-id="" tvg-name="Good News Today" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/gnttv-logo.png",Good News Today
 https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_5/chunklist.m3u8
 
 #EXTINF:-1,TV9 Bharatvarsh
