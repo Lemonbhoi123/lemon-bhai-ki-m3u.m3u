@@ -276,6 +276,11 @@ https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://snehtv.in1.bitmana.io/jiotv/play.php?c=Colors_Cineplex
 https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_Cineplex&q=800&e=junk.m3u8
 
+#EXTINF:-1 tvg-id="COLORS CINEPLEX BOLLYWOOD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",Colors Cineplex Bollywood
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://snehtv.in1.bitmana.io/jiotv/play.php?c=Colors_Cineplex_Bollywood
+https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_Cineplex_Bollywood&q=800&e=junk.m3u8
+
 #EXTINF:-1 tvg-id="1158" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/UTV-HD.png/main/RishteyCineplex.in.png",Rishtey Cineplex
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://snehtv.in1.bitmana.io/jiotv/play.php?c=Rishtey_Cineplex
