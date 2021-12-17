@@ -45,6 +45,9 @@ http://opplex.tv:8080/live/1234/1234/66208.m3u8
 http://opplex.tv:8080/live/1234/1234/109949.m3u8
 
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/starplushd.png",Star Plus HD
+http://starshare.live:8080/live/10191817/10191817/167.m3u8
+
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/starplushd.png",Star Plus HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://opplex.tv:8080/live/1234/1234/66166.m3u8
 
@@ -52,10 +55,9 @@ http://opplex.tv:8080/live/1234/1234/66166.m3u8
 http://starshare.live:8080/live/10191817/10191817/9366.m3u8
 
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/starplushd.png",Star Plus HD
-http://starshare.live:8080/live/10191817/10191817/167.m3u8
+http://starshare.live:8080/live/10191817/10191817/3744.m3u8
 
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/starplussd.png",Star Plus
-http://starshare.live:8080/live/10191817/10191817/3744.m3u8
 
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-name="IN| STAR BHARAT FHD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20BHARAT%20HD.png",Star Bharat HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -67,9 +69,6 @@ http://starshare.live:8080/live/10191817/10191817/9367.m3u8
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-name="IN| STAR BHARAT FHD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20BHARAT%20HD.png",Star Bharat HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://opplex.tv:8080/live/1234/1234/109951.m3u8
-
-#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="IN| STAR BHARAT FHD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20BHARAT%20HD.png",Star Bharat HD
-http://pprotv.com:80/live/hassan/hassan12345/60002.m3u8
 
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-name="IN| STAR BHARAT FHD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20BHARAT%20HD.png",Star Bharat HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
