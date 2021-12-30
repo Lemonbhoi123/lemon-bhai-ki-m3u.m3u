@@ -22,6 +22,9 @@ http://opplex.tv:8080/live/123456/123456/66163.m3u8
 http://opplex.tv:8080/live/123456/123456/66162.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"",Zee TV HD
+http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/86169.ts
+
+#EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"",Zee TV HD
 http://195.201.82.32:5001/play/a02d
 
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"",Zee TV HD
@@ -32,6 +35,9 @@ http://opplex.tv:8080/live/123456/123456/66208.m3u8
 
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/starplushd.png",Star Plus HD
 http://opplex.tv:8080/live/123456/123456/109949.m3u8
+
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/starplushd.png",Star Plus HD
+http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/86172.ts
 
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/starplushd.png",Star Plus HD
 http://opplex.tv:8080/live/123456/123456/66166.m3u8
@@ -69,6 +75,9 @@ http://opplex.tv:8080/live/123456/123456/109951.m3u8
 http://opplex.tv:8080/live/123456/123456/66170.m3u8
 
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-name="IN| STAR BHARAT FHD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20BHARAT%20HD.png",Star Bharat HD
+http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/86179.ts
+
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="IN| STAR BHARAT FHD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20BHARAT%20HD.png",Star Bharat HD
 http://starshare.live:8080/live/10191817/10191817/9367.m3u8
 
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-name="IN| STAR BHARAT FHD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20BHARAT%20HD.png",Star Bharat HD
@@ -101,6 +110,9 @@ http://opplex.tv:8080/live/123456/123456/109947.m3u8
 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 http://opplex.tv:8080/live/123456/123456/66167.m3u8
+
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
+http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/86174.te
 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 http://starshare.live:8080/live/10191817/10191817/9370.m3u8
@@ -138,13 +150,19 @@ https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3
 https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN| STAR SPORTS 1 HINDI FHD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/Star%20Sports%201%20HD%20HINDI%20(NEW).png",Star Sports 1 HD (Hindi)
-http://opplex.tv:8080/khaliq/khaliq/109986
+http://opplex.tv:8080/live/khaliq/khaliq/109986.m3u8
 
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN| STAR SPORTS 1 HINDI FHD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/Star%20Sports%201%20HD%20HINDI%20(NEW).png",Star Sports 1 HD (Hindi)
 http://195.201.82.32:5001/play/a026
 
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 HINDI HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/PicsArt_11-28-02.40.50.png",Star Sports 1 HD
+http://opplex.tv:8080/live/khaliq/khaliq/109987.m3u8
+
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 HINDI HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/PicsArt_11-28-02.40.50.png",Star Sports 1 HD
 http://cdn.worldtvip.co:25461/live/sheraz/kcU75HHUin/265.m3u8
+
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="IN| STAR SPORTS 2 FHD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/Star%20Sports%202%20HD.png",Star Sports 2 HD
+http://opplex.tv:8080/live/khaliq/khaliq/109988.m3u8
 
 #EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="IN| STAR SPORTS 2 FHD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/Star%20Sports%202%20HD.png",Star Sports 2 HD
 http://cdn.worldtvip.co:25461/live/sheraz/kcU75HHUin/48.m3u8
@@ -152,7 +170,13 @@ http://cdn.worldtvip.co:25461/live/sheraz/kcU75HHUin/48.m3u8
 #EXTINF:-1 tvg-name="IN| STAR SPORTS 3" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/Star%20Sports%203.png",Star Sports 3 
 
 #EXTINF:-1 tvg-id="starsportsselect1hd" tvg-name="IN| STAR SPORTS SELECT 1 FHD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/UTV-HD.png/main/Star%20Sports%20Select%201%20HD.png",Star Sports Select 1 HD
+http://opplex.tv:8080/live/khaliq/khaliq/109993.m3u8
+
+#EXTINF:-1 tvg-id="starsportsselect1hd" tvg-name="IN| STAR SPORTS SELECT 1 FHD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/UTV-HD.png/main/Star%20Sports%20Select%201%20HD.png",Star Sports Select 1 HD
 http://cdn.worldtvip.co:25461/live/sheraz/kcU75HHUin/49.m3u8
+
+#EXTINF:-1 tvg-id="starsportsselect2hd" tvg-name="IN| STAR SPORTS SELECT 2 FHD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/UTV-HD.png/main/Star%20Sports%20Select%202%20HD%20.png",Star Sports Select 2 HD
+http://opplex.tv:8080/live/khaliq/khaliq/109994.m3u8
 
 #EXTINF:-1 tvg-id="starsportsselect2hd" tvg-name="IN| STAR SPORTS SELECT 2 FHD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/UTV-HD.png/main/Star%20Sports%20Select%202%20HD%20.png",Star Sports Select 2 HD
 http://cdn.worldtvip.co:25461/live/sheraz/kcU75HHUin/50.m3u8
@@ -162,6 +186,9 @@ http://opplex.tv:8080/live/123456/123456/66178.m3u8
 
 #EXTINF:-1 tvg-id="IN | STAR GOLD-HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20GOLD%20HD.png",Star Gold HD
 http://opplex.tv:8080/live/123456/123456/66177.m3u8
+
+#EXTINF:-1 tvg-id="IN | STAR GOLD-HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20GOLD%20HD.png",Star Gold HD
+http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/86170.ts
 
 #EXTINF:-1 tvg-id="IN | STAR GOLD-HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20GOLD%20HD.png",Star Gold HD
 http://starshare.live:8080/live/10191817/10191817/9375.m3u8
@@ -180,6 +207,9 @@ http://195.201.82.32:5001/play/a029
 
 #EXTINF:-1 tvg-id="IN | STAR GOLD SELECT HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/stargoldselecthd.png",Star Gold Select HD
 http://cdn.worldtvip.co:25461/live/sheraz/kcU75HHUin/24.m3u8
+
+#EXTINF:-1 tvg-id="UTV.uk" tvg-name="IN| UTV HD HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/UTV%20HD.png",UTV HD
+http://opplex.tv:8080/live/khaliq/khaliq/66185.m3u8
 
 #EXTINF:-1 tvg-id="UTV.uk" tvg-name="IN| UTV HD HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/UTV%20HD.png",UTV HD
 http://195.201.82.32:5001/play/a02p
@@ -202,10 +232,13 @@ https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
 
 #EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://assets.rstream.me/images/j/lWYvzXvdTw.png",&Pictures HD
-http://opplex.tv:8080/123456/123456/66183.m3u8
+http://opplex.tv:8080/live/123456/123456/66183.m3u8
 
 #EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://assets.rstream.me/images/j/lWYvzXvdTw.png",&Pictures HD
-http://opplex.tv:8080/123456/123456/66181
+http://opplex.tv:8080/live/123456/123456/66181.m3u8
+
+#EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://assets.rstream.me/images/j/lWYvzXvdTw.png",&Pictures HD
+http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/86185.ts
 
 #EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://assets.rstream.me/images/j/lWYvzXvdTw.png",&Pictures HD
 http://195.201.82.32:5001/play/a02i
@@ -218,6 +251,9 @@ http://opplex.tv:8080/live/123456/123456/206308.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
 http://opplex.tv:8080/live/123456/123456/206307.m3u8
+
+#EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
+http://grets.co21.net:2082/live/Taoufik_145943/3yeD3C46/86167.ts
 
 #EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
 http://195.201.82.32:5001/play/a02e
@@ -288,7 +324,6 @@ https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_5/chunklist.m
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
 
 #EXTINF: -1 tvg-id="499" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png",News Nation
-https://tvstream.space/jtv/bxbx.php?c=News_Nation&q=1200&e=junk.m3u8
 
 #EXTINF:-1,India News
 https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in_480p/index.m3u8
