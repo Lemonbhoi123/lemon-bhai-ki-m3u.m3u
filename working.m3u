@@ -116,9 +116,6 @@ https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=And_Pictures_HD
 #EXTINF:-1 tvg-id="&amp;pictures.in" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-pictures/channel_web/1170x658withlog_1269578414.png",&Pictures
 https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=pictures
 
-#EXTINF:-1 tvg-id="&amp;pictures.in" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-pictures/channel_web/1170x658withlog_1269578414.png",&Pictures
-http://208.86.19.21/705.stream/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="Zee.Cinema.HD.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 
@@ -261,3 +258,4 @@ https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nick_Hindi&q=12
 
 #EXTINF:-1 tvg-name="Pogo.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png",POGO
 https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Pogo_Hindi&q=1200&e=junk.m3u8
+ 
