@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://kodi.botallen.com/tv/epg.xml"
 
 #EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png",&TV HD
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api/tvhd_0.m3u8
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api/tvhd_0.m3u8 
 
 #EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png",&TV HD
 https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=tvhd_0
@@ -33,6 +33,9 @@ http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
 
 #EXTINF:-1 tvg-id="Star.Bharat.in" tvg-name="IN| STAR BHARAT FHD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20BHARAT.png",Star Bharat
 http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8
+
+#EXTINF:-1 tvg-id="0-9-250" tvg-logo="https://akamaividz.zee5.com/resources/0-9-250/list/386x386/09250ddnationalhd.png",DD National HD
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api/250.m3u8
 
 #EXTINF:-1 tvg-id="0-9-250" tvg-logo="https://akamaividz.zee5.com/resources/0-9-250/list/386x386/09250ddnationalhd.png",DD National HD
 https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=250
