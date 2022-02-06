@@ -4,7 +4,10 @@
 https://iptv.airtelindia.cf/zee5/zee5.m3u8?id=0-9-tvhd_0
 
 #EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png",&TV HD
-https://snehapi.in1.bitmana.io/jioapi/snehjioxx.php?c=And_TV_HD&q=1200&e=junk.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://iptv.airtelindia.cf/airtel/manifest.mpd?id=MWTV_LIVETVCHANNEL_581
+https://iptv.airtelindia.cf/airtel/manifest.mpd?id=MWTV_LIVETVCHANNEL_581
 
 #EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png",&TV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -12,14 +15,20 @@ https://snehapi.in1.bitmana.io/jioapi/snehjioxx.php?c=And_TV_HD&q=1200&e=junk.m3
 #KODIPROP:inputstream.adaptive.license_key=https://iptv.airtelindia.cf/jiotvplus/manifest.mpd?c=And_TV_HD_MOB
 https://snoidcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/And_TV_HD_MOB/output/index.mpd|user-agent="KAIOS"
 
+#EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png",&TV HD
+https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=And_TV_HD
+
+#EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png",&TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://iptv.airtelindia.cf/airtel/manifest.mpd?id=MWTV_LIVETVCHANNEL_547
+https://iptv.airtelindia.cf/airtel/manifest.mpd?id=MWTV_LIVETVCHANNEL_547
+
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"",Zee TV HD
 http://144.217.70.181:9587/hin2/ZEETVHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"",Zee TV HD
 https://iptv.airtelindia.cf/zee5/zee5.m3u8?id=0-9-zeetvhd
-
-#EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"",Zee TV HD
-https://snehapi.in1.bitmana.io/jioapi/snehjioxx.php?c=Zee_TV_HD&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"",Zee TV HD
 https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Zee_TV_HD
@@ -82,16 +91,13 @@ https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 https://snoidcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Colors_HD_BTS/output/index.mpd|user-agent="KAIOS"
 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://iptv.airtelindia.cf/jiotvplus/manifest.mpd?c=Colors_HD_BTS
-https://snoidcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Colors_HD_BTS/output/index.mpd|user-agent="KAIOS"
-
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 http://144.217.70.181:9587/hin2/COLORSHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Colors_HD
+
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
+http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="279" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png",Rishtey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -114,19 +120,10 @@ https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3
 https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/Star%20Sports%201%20HD%20HINDI%20(NEW).png",Star Sports 1 HD (Hindi)
-https://rtsaiful0.shortcm.li/Star_Sports_Hindi_720p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/Star%20Sports%201%20HD%20HINDI%20(NEW).png",Star Sports 1 HD (Hindi)
 http://opplex.tv:8080/live/6789/6789/109986.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/Star%20Sports%201%20HD%20HINDI%20(NEW).png",Star Sports 1 HD (Hindi)
-http://103.153.39.36:8000/play/a026
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/PicsArt_11-28-02.40.50.png",Star Sports 1 HD
 http://opplex.tv:8080/live/6789/6789/109987.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/PicsArt_11-28-02.40.50.png",Star Sports 1 HD
-http://103.153.39.36:8000/play/a00c
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/Star%20Sports%202%20HD.png",Star Sports 2 HD
 http://opplex.tv:8080/live/6789/6789/109988.m3u8
@@ -191,17 +188,26 @@ https://iptv.airtelindia.cf/zee5/zee5.m3u8?id=0-9-tvpictureshd
 #EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://assets.rstream.me/images/j/lWYvzXvdTw.png",&Pictures HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://iptv.airtelindia.cf/airtel/manifest.mpd?id=MWTV_LIVETVCHANNEL_696
+https://iptv.airtelindia.cf/airtel/manifest.mpd?id=MWTV_LIVETVCHANNEL_696
+
+#EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://assets.rstream.me/images/j/lWYvzXvdTw.png",&Pictures HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://iptv.airtelindia.cf/jiotvplus/manifest.mpd?c=And_Pictures_HD_MOB
 https://snoidcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/And_Pictures_HD_MOB/output/index.mpd|user-agent="KAIOS"
 
 #EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://assets.rstream.me/images/j/lWYvzXvdTw.png",&Pictures HD
-http://opplex.tv:8080/live/6789/6789/66181.m3u8
-
-#EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://assets.rstream.me/images/j/lWYvzXvdTw.png",&Pictures HD
 https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=And_Pictures_HD
 
-#EXTINF:-1 tvg-id="0-9-pictures" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-pictures/channel_web/1170x658withlog_1269578414.png",&Pictures
+#EXTINF:-1 tvg-id="0-9-pictures" tvg-logo="https://assets.rstream.me/images/a/OFQqLpbpGL.png",&Pictures
 https://iptv.airtelindia.cf/zee5/zee5.m3u8?id=0-9-pictures
+
+#EXTINF:-1 tvg-id="0-9-pictures" tvg-logo="https://assets.rstream.me/images/a/OFQqLpbpGL.png",&Pictures
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://iptv.airtelindia.cf/airtel/manifest.mpd?id=MWTV_LIVETVCHANNEL_548
+https://iptv.airtelindia.cf/airtel/manifest.mpd?id=MWTV_LIVETVCHANNEL_548
 
 #EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
@@ -212,17 +218,14 @@ https://iptv.airtelindia.cf/zee5/zee5.m3u8?id=0-9-zeecinemahd
 #EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://iptv.airtelindia.cf/jiotvplus/manifest.mpd?c=Zee_Cinema_MOB
-https://snoidcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Zee_Cinema_MOB/output/index.mpd|user-agent="KAIOS"
+#KODIPROP:inputstream.adaptive.license_key=https://iptv.airtelindia.cf/airtel/manifest.mpd?id=MWTV_LIVETVCHANNEL_580
+https://iptv.airtelindia.cf/airtel/manifest.mpd?id=MWTV_LIVETVCHANNEL_580
 
 #EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
-http://opplex.tv:8080/live/6789/6789/206308.m3u8
-
-#EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
-http://opplex.tv:8080/live/6789/6789/206307.m3u8
-
-#EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
-http://opplex.tv:8080/live/6789/6789/221261.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://iptv.airtelindia.cf/jiotvplus/manifest.mpd?c=Zee_Cinema_HD_MOB
+https://snoidcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Zee_Cinema_HD_MOB/output/index.mpd|user-agent="KAIOS"
 
 #EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
 https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Zee_Cinema_HD
@@ -238,6 +241,12 @@ https://snoidcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Zee_Cinema_MO
 
 #EXTINF:-1 tvg-id="0-9-zeecinema" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",Zee Cinema
 https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Zee_Cinema
+
+#EXTINF:-1 tvg-id="0-9-zeecinema" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",Zee Cinema
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://iptv.airtelindia.cf/airtel/manifest.mpd?id=MWTV_LIVETVCHANNEL_441
+https://iptv.airtelindia.cf/airtel/manifest.mpd?id=MWTV_LIVETVCHANNEL_441
 
 #EXTINF:-1 tvg-id="0-9-zeeaction" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_web/1170x658withlog_1953200347.png",Zee Action
 http://93.152.174.144:4000/play/zeeaction/index.m3u8
@@ -259,9 +268,6 @@ https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",Colors Cineplex
 https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Colors_Cineplex
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",Colors Cineplex
-https://snehapi.in1.bitmana.io/jioapi/snehjioxx.php?c=Colors_Cineplex&q=800&e=junk.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",Colors Cineplex Bollywood
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -274,14 +280,11 @@ https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Colors_Cineplex_Bollywood
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/UTV-HD.png/main/RishteyCineplex.in.png",Rishtey Cineplex
 https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Rishtey_Cineplex
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/UTV-HD.png/main/RishteyCineplex.in.png",Rishtey Cineplex
-https://snehapi.in1.bitmana.io/jioapi/snehjioxx.php?c=Rishtey_Cineplex&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://akamaividz.zee5.com/resources/0-9-131/list/386x386/091319xm.png",9XM
+https://iptv.airtelindia.cf/samsung/iptv.m3u8?id=INBA4900014SO
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://akamaividz.zee5.com/resources/0-9-131/list/386x386/091319xm.png",9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://akamaividz.zee5.com/resources/0-9-131/list/386x386/091319xm.png",9XM
-https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.showboxchannel.com/wp-content/uploads/2021/08/showbox_logo.png",Showbox
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
@@ -347,10 +350,10 @@ https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_4_av-p.m3u8
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
 
 #EXTINF:-1,Republic TV
-https://weblive.republicworld.com/httppush/ottr_republic_english/chunklist_2.m3u8
+https://iptv.airtelindia.cf/samsung/iptv.m3u8?id=INBA4900020A5
 
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-162/list/386x386/09162republicbharat.png",Republic Bharat
-https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/chunklist_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://akamaividz.zee5.com/resources/0-9-162/list/386x386/09162republicbharat.png",R. Bharat
+https://iptv.airtelindia.cf/samsung/iptv.m3u8?id=INBA490002119
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-206/channel_web/1170x658withlogo_740756490.png",News24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
@@ -370,29 +373,31 @@ http://103.153.39.36:8000/play/a01y
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/za/DisneyJunior.za.png",Disney Junior
 
-#EXTINF:-1 tvg-id="Cartoon Network Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon Network Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network Hindi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://iptv.airtelindia.cf/jiotvplus/manifest.mpd?c=Cartoon_Network_Hindi_MOB
 https://snoidcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Cartoon_Network_Hindi_MOB/output/index.mpd|user-agent="KAIOS"
 
-#EXTINF:-1 tvg-id="Cartoon Network Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon Network Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network Hindi
 https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Cartoon_Network_Hindi
 
-#EXTINF:-1 tvg-id="Nick Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",Nick
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets.rstream.me/images/t/IsScNhCCed.png",Cartoon Network HD+
+
+#EXTINF:-1 tvg-id="Nick Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",Nick Hindi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://iptv.airtelindia.cf/jiotvplus/manifest.mpd?c=Nick_Hindi_MOB
 https://snoidcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Nick_Hindi_MOB/output/index.mpd|user-agent="KAIOS"
 
-#EXTINF:-1 tvg-id="Nick Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",Nick
+#EXTINF:-1 tvg-id="Nick Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",Nick Hindi
 https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Nick_Hindi
 
-#EXTINF:-1 tvg-id="Pogo Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png",POGO
+#EXTINF:-1 tvg-id="Pogo Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png",POGO Hindi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://iptv.airtelindia.cf/jiotvplus/manifest.mpd?c=Pogo_Hindi_MOB
 https://snoidcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Pogo_Hindi_MOB/output/index.mpd|user-agent="KAIOS"
 
-#EXTINF:-1 tvg-id="Pogo Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png",POGO
+#EXTINF:-1 tvg-id="Pogo Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png",POGO Hindi
 https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Pogo_Hindi
