@@ -46,7 +46,6 @@ http://opplex.tv:8080/live/6789/6789/66166.m3u8
 http://opplex.tv:8080/live/6789/6789/221252.m3u8
 
 #EXTINF:-1 tvg-id="starplushd.in" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/starplussd.png",Star Plus
-http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
 
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20BHARAT%20HD.png",Star Bharat HD
 http://opplex.tv:8080/live/6789/6789/66171.m3u8
@@ -61,7 +60,6 @@ http://opplex.tv:8080/live/6789/6789/66170.m3u8
 http://103.153.39.36:8000/play/a010
 
 #EXTINF:-1 tvg-id="Star.Bharat.in" tvg-name="IN| STAR BHARAT FHD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20BHARAT.png",Star Bharat
-http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://akamaividz.zee5.com/resources/0-9-250/list/386x386/09250ddnationalhd.png",DD National HD
 https://iptv.airtelindia.cf/zee5/zee5.m3u8?id=0-9-250
@@ -75,9 +73,6 @@ https://m-c049-j2apps.s.llnwi.net/hls/0178.DDBharati.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="291" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png",Sony HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 
-#EXTINF:-1 tvg-id="291" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png",Sony HD
-http://144.217.70.181:9587/hin2/SONYTVHD/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="471" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png",Sony Sab HD
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 
@@ -85,19 +80,9 @@ https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://iptv.airtelindia.cf/jiotvplus/manifest.mpd?c=Colors_HD_BTS
-https://snoidcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Colors_HD_BTS/output/index.mpd|user-agent="KAIOS"
-
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
-http://144.217.70.181:9587/hin2/COLORSHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
-https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Colors_HD
-
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
-http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZIRTRMOTZxMS1GRjMwVmpVaHJtT2RvcllmUlFiSDFZVVVwX0dOc0E1T05EZ1V5Sl9YUHFobnRhcFlIeWV2RG10QjlQV1p1bUx5ZHZRem5XLUtMR0lta1d4RHpmYl94eGF2ZlNLNmhrcFM3MnN5dy1PUkI1Y2RkSDZiZ1NfYkdQeVVmM0xqRndoaDRaVkgySVdDa2tXUGVKQVQzeWJyclNLQWY1V0s0REJKMENkM1Bnc002WkxGb2lqNVZrWFpRZTV3ek14QkxwbHRfNG44SEdhU1VybmNpbVhpMTJLTU0yNmJqa0lQU0pVZFc2RXM3bXRnaURtZDVxX0wwWnVxWWNBRllwOTctbmhmRTVNbDR2SG12aU9iaU9IQTFiT3lJbERJaFdIbExtQ0lkYXc0Nzk1d3lHeXdTQ3A0bXB4N3AzZTZnWE1yb1VUZlBMWkptankxLVZWcC1Pc01iM0R2ZW5zemVhUVV4ZWhXakIwZXRMaWJJSVBpUmZ3eGZJNFFldUdRPT0mY29udGV4dFR5cGU9bm9uZSZpZD04OTQ2NDEwIiwiYWNjb3VudF9pZCI6MTk4MjU1MSwiY29udGVudF9pZCI6ImNvbG9yc2hkTGl2ZV9kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmSEU0TDk2cTEtRkYzMFZqVWhybU9kb3JZZlJRYkgxWVVVcF9HTnNBNU9ORGdVeUpfWFBxaG50YXBZSHlldkRtdEI5UFdadW1MeWR2UXpuVy1LTEdJbWtXeER6ZmJfeHhhdmZTSzZoa3BTNzJzeXctT1JCNWNkZEg2YmdTX2JHUHlVZjNMakZ3aGg0WlZIMklXQ2trV1BlSkFUM3licnJTS0FmNVdLNERCSjBDZDNQZ3NNNlpMRm9pajVWa1haUWU1d3pNeEJMcGx0XzRuOEhHYVNVcm5jaW1YaTEyS01NMjZiamtJUFNKVWRXNkVzN210Z2lEbWQ1cV9MMFp1cVljQUZZcDk3LW5oZkU1TWw0dkhtdmlPYmlPSEExYk95SWxESWhXSGxMbUNJZGF3NDc5NXd5R3l3U0NwNG1weDdwM2U2Z1hNcm9VVGZQTFpKbWp5MS1WVnAtT3NNYjNEdmVuc3plYVFVeGVoV2pCMGV0TGliSUlQaVJmd3hmSTRRZXVHUT09IiwidWRpZCI6ImZiODA1YjkxZmZkNzQ1ZDM4NWY2OTBiOTE0NTA3Y2Y4IiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=zwhhToMFuNYsCRWU8brcm18dbEc%3d
+https://livevoot-i.akamaihd.net/dash/live/828520-b/colorshd4/master.mpd
 
 #EXTINF:-1 tvg-id="279" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png",Rishtey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -148,17 +133,11 @@ http://opplex.tv:8080/live/6789/6789/66177.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20GOLD%20HD.png",Star Gold HD
 http://opplex.tv:8080/live/6789/6789/221258.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20GOLD%20HD.png",Star Gold HD
-http://103.153.39.36:8000/play/a012
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20GOLD%20HD.png",Star Gold HD
-http://103.132.16.98:8080/stargoldhd/mpegts.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/stargoldselecthd.png",Star Gold Select HD
 http://opplex.tv:8080/live/6789/6789/66176.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/stargoldselecthd.png",Star Gold Select HD
-http://103.153.39.36:8000/play/a014
+http://opplex.tv:8080/live/6789/6789/221257.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/UTV%20HD.png",UTV HD
 
@@ -174,7 +153,6 @@ http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 http://opplex.tv:8080/live/6789/6789/106133.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20GOLD2.png",Star Gold 2
-http://103.153.39.36:8000/play/a01q
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/Sony%20Max%20HD.png",Sony Max HD
 https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
@@ -352,8 +330,14 @@ https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/liv
 #EXTINF:-1,Republic TV
 https://iptv.airtelindia.cf/samsung/iptv.m3u8?id=INBA4900020A5
 
+#EXTINF:-1,Republic TV
+https://weblive.republicworld.com/httppush/ottr_republic_english/chunklist_2.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://akamaividz.zee5.com/resources/0-9-162/list/386x386/09162republicbharat.png",R. Bharat
 https://iptv.airtelindia.cf/samsung/iptv.m3u8?id=INBA490002119
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://akamaividz.zee5.com/resources/0-9-162/list/386x386/09162republicbharat.png",R. Bharat
+https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/chunklist_2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-206/channel_web/1170x658withlogo_740756490.png",News24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
@@ -369,7 +353,6 @@ http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Marvel_HQ_logo.svg/1200px-Marvel_HQ_logo.svg.png",Marvel HQ
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/DisneyChannel.in.png",Disney
-http://103.153.39.36:8000/play/a01y
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/za/DisneyJunior.za.png",Disney Junior
 
