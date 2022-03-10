@@ -1,13 +1,14 @@
 #EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
-
 #EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png",&TV HD
 https://snehapi-march.in1.bitmana.io/z5api/snehz5api/tvhd_0.m3u8
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"",Zee TV HD
 #EXTINF:-1 tvg-id="starplushd.in" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/starplushd.png",Star Plus HD
+https://iptv.ambaniuncle.tk/redline/iptv.m3u8?id=51239|user-agent="REDLINECLIENT"
 #EXTINF:-1 tvg-id="starplushd.in" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/starplushd.png",Star Plus HD
 http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="starplushd.in" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/starplussd.png",Star Plus
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20BHARAT%20HD.png",Star Bharat HD
+https://iptv.ambaniuncle.tk/redline/iptv.m3u8?id=51233|user-agent="REDLINECLIENT"
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20BHARAT.png",Star Bharat
 #EXTINF:-1 tvg-id="" tvg-logo="https://akamaividz.zee5.com/resources/0-9-250/list/386x386/09250ddnationalhd.png",DD National
 http://144.217.70.181:9587/hin2/DDNATIONAL/tracks-v1a1/mono.m3u8
@@ -30,11 +31,14 @@ https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3
 #EXTINF:-1 tvg-id="155" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_HD.png",Sony Six HD
 https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/Star%20Sports%201%20HD%20HINDI%20(NEW).png",Star Sports 1 HD (Hindi)
+https://iptv.ambaniuncle.tk/redline/iptv.m3u8?id=48120|user-agent="REDLINECLIENT"
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/PicsArt_11-28-02.40.50.png",Star Sports 1 HD
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/Star%20Sports%202%20HD.png",Star Sports 2 HD
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/Star%20Sports%203.png",Star Sports 3 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Lemonbhoi123/lemon-bhai-ki-m3u.m3u/main/StarSportsSelect1HD.png",Star Sports Select 1 HD
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Lemonbhoi123/lemon-bhai-ki-m3u.m3u/main/StarSportsSelect2HD.png",Star Sports Select 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20GOLD%20HD.png",Star Gold HD
+https://iptv.ambaniuncle.tk/redline/iptv.m3u8?id=48107|user-agent="REDLINECLIENT"
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20GOLD%20HD.png",Star Gold HD
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20GOLD%20HD.png",Star Gold HD
@@ -46,6 +50,8 @@ http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 http://live.flixhub.net/hls/utvaction.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/UTV-HD.png/main/Utv_Action.png",UTV Action
 http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20GOLD2.png",Star Gold 2
+https://iptv.ambaniuncle.tk/redline/iptv.m3u8?id=51000|user-agent="REDLINECLIENT"
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20GOLD2.png",Star Gold 2
 http://live.flixhub.net/hls/stargold2hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20GOLD2.png",Star Gold 2
@@ -112,9 +118,13 @@ https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/chunklist_2.m3
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png",Sonic Hindi
 #EXTINF:-1 tvg-id="" tvg-name="IN| HUNGAMA TV HD" tvg-logo="https://static.epg.best/in/Hungama.in.png",Hungama TV
+https://iptv.ambaniuncle.tk/redline/iptv.m3u8?id=48164|user-agent="REDLINECLIENT"
+#EXTINF:-1 tvg-id="" tvg-name="IN| HUNGAMA TV HD" tvg-logo="https://static.epg.best/in/Hungama.in.png",Hungama TV
 http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Lemonbhoi123/lemon-bhai-ki-m3u.m3u/main/SuperHungama.png",Super Hungama
+https://iptv.ambaniuncle.tk/redline/iptv.m3u8?id=54885|user-agent="REDLINECLIENT"
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/DisneyChannel.in.png",Disney
+https://iptv.ambaniuncle.tk/redline/iptv.m3u8?id=48157|user-agent="REDLINECLIENT"
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/za/DisneyJunior.za.png",Disney Junior
 #EXTINF:-1 tvg-id="Cartoon Network Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network Hindi
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets.rstream.me/images/t/IsScNhCCed.png",Cartoon Network HD+
