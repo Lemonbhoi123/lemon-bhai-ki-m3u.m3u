@@ -3,16 +3,13 @@
 https://jai-shree-ram.in1.bitmana.io/zeppy/tszeppy/tvhd_0.m3u8|user-agent="techiesneh"
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"",Zee TV HD
 #EXTINF:-1 tvg-id="starplushd.in" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/starplushd.png",Star Plus HD
-http://opplex.tv:8080/live/10121/10121/66208.m3u8
-#EXTINF:-1 tvg-id="starplushd.in" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/starplushd.png",Star Plus HD
 http://103.166.253.222/hls/starplus.m3u8
 #EXTINF:-1 tvg-id="starplushd.in" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/starplushd.png",Star Plus HD
 https://iptv.ambaniuncle.tk/redline/iptv.m3u8?id=51239|user-agent="REDLINECLIENT"
 #EXTINF:-1 tvg-id="starplushd.in" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/starplushd.png",Star Plus HD
 http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="starplushd.in" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/starplussd.png",Star Plus
-#EXTINF:-1 tvg-id="starbharathd.in" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20BHARAT%20HD.png",Star Bharat HD
-http://opplex.tv:8080/live/10121/10121/66171.m3u8
+http://103.149.130.122:8089/67/index.m3u8
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20BHARAT%20HD.png",Star Bharat HD
 https://iptv.ambaniuncle.tk/redline/iptv.m3u8?id=51233|user-agent="REDLINECLIENT"
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20BHARAT.png",Star Bharat
@@ -37,18 +34,15 @@ https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3
 #EXTINF:-1 tvg-id="155" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_HD.png",Sony Six HD
 https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/Star%20Sports%201%20HD%20HINDI%20(NEW).png",Star Sports 1 HD (Hindi)
-http://opplex.tv:8080/live/10121/10121/109986.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/Star%20Sports%201%20HD%20HINDI%20(NEW).png",Star Sports 1 HD (Hindi)
 https://iptv.ambaniuncle.tk/redline/iptv.m3u8?id=48120|user-agent="REDLINECLIENT"
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/PicsArt_11-28-02.40.50.png",Star Sports 1 HD
-http://opplex.tv:8080/live/10121/10121/109987.m3u8
+http://103.149.130.122:8089/25/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/PicsArt_11-28-02.40.50.png",Star Sports 1 HD
+http://103.166.253.222:80/hls/stersports1hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/Star%20Sports%202%20HD.png",Star Sports 2 HD
-http://opplex.tv:8080/live/10121/10121/109988.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/Star%20Sports%203.png",Star Sports 3 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Lemonbhoi123/lemon-bhai-ki-m3u.m3u/main/StarSportsSelect1HD.png",Star Sports Select 1 HD
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Lemonbhoi123/lemon-bhai-ki-m3u.m3u/main/StarSportsSelect2HD.png",Star Sports Select 2 HD
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20GOLD%20HD.png",Star Gold HD
-http://opplex.tv:8080/live/10121/10121/66178.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20GOLD%20HD.png",Star Gold HD
 https://iptv.ambaniuncle.tk/redline/iptv.m3u8?id=48107|user-agent="REDLINECLIENT"
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20GOLD%20HD.png",Star Gold HD
@@ -59,7 +53,6 @@ http://103.166.253.222/hls/stargold.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/UTV%20HD.png",UTV HD
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" ,UTV Movies
-http://opplex.tv:8080/live/10121/10121/66186.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/UTV-HD.png/main/Utv_Action.png",UTV Action
 http://103.166.253.222/hls/utvaction.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/UTV-HD.png/main/Utv_Action.png",UTV Action
@@ -131,6 +124,8 @@ https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/chunklist_2.m3
 #EXTINF:-1 tvg-id="" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-206/channel_web/1170x658withlogo_740756490.png",News24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png",Sonic Hindi
+#EXTINF:-1 tvg-id="" tvg-name="IN| HUNGAMA TV HD" tvg-logo="https://static.epg.best/in/Hungama.in.png",Hungama TV
+https://jai-shree-ram.in1.bitmana.io/rapidx/rapid/hungamahindi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN| HUNGAMA TV HD" tvg-logo="https://static.epg.best/in/Hungama.in.png",Hungama TV
 https://iptv.ambaniuncle.tk/redline/iptv.m3u8?id=48164|user-agent="REDLINECLIENT"
 #EXTINF:-1 tvg-id="" tvg-name="IN| HUNGAMA TV HD" tvg-logo="https://static.epg.best/in/Hungama.in.png",Hungama TV
