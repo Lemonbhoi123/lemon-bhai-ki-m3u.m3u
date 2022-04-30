@@ -80,9 +80,12 @@ https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5492474426001.png,Sony Max
 https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
 #EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://assets.rstream.me/images/j/lWYvzXvdTw.png",&Pictures HD
+http://node97425-techmax-live.in1.bitmana.io/Jiotv/autoq.php?c=And_Pictures_HD
 #EXTINF:-1 tvg-id="0-9-pictures" tvg-logo="https://assets.rstream.me/images/a/OFQqLpbpGL.png",&Pictures
 #EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
+http://node97425-techmax-live.in1.bitmana.io/Jiotv/autoq.php?c=Zee_Cinema_HD
 #EXTINF:-1 tvg-id="0-9-zeecinema" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",Zee Cinema
+http://node97425-techmax-live.in1.bitmana.io/Jiotv/autoq.php?c=Zee_Cinema
 #EXTINF:-1 tvg-id="0-9-zeeaction" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_web/1170x658withlog_1953200347.png",Zee Action
 http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="0-9-zeeaction" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_web/1170x658withlog_1953200347.png",Zee Action
@@ -93,16 +96,18 @@ http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
 https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",Sony Max 2
 https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODg0MjM4MiIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJjaW5lcGxleGhkX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=2PD5Ukiwmg7WNAjgVRfQ8NOSbT4%3d
 #EXTINF:-1 tvg-id="482" tvg-logo="https://snoidcdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png",Colors Cineplex HD
 https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",Colors Cineplex
-https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=Colors_Cineplex
+http://node97425-techmax-live.in1.bitmana.io/Jiotv/autoq.php?c=Colors_Cineplex
 #EXTINF:-1 tvg-id="1792" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",Colors Cineplex Bollywood
-https://iptv.ambaniuncle.tk/voot/m3u8.m3u8?id=1792
+http://node97425-techmax-live.in1.bitmana.io/Jiotv/autoq.php?c=Colors_Cineplex_Bollywood
 #EXTINF:-1 tvg-id="1628" tvg-name="Rishtey Cineplex" tvg-logo="https://raw.githubusercontent.com/Lemonbhoi123/lemon-bhai-ki-m3u.m3u/main/ColorCineplexSuperHit.png",Colors Cineplex Superhits
-https://iptv.ambaniuncle.tk/voot/m3u8.m3u8?id=1628
+http://node97425-techmax-live.in1.bitmana.io/Jiotv/autoq.php?c=Rishtey_Cineplex
 #EXTINF:-1 tvg-id="" tvg-logo="https://akamaividz.zee5.com/resources/0-9-131/list/386x386/091319xm.png",9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Lemonbhoi123/lemon-bhai-ki-m3u.m3u/main/showbox_logo.png",Showbox
@@ -149,7 +154,10 @@ https://iptv.ambaniuncle.tk/redline/iptv.m3u8?id=54885|user-agent="REDLINECLIENT
 http://31.172.87.31:2200/R-EX/KIDS_Disney_TV-in/index.m3u8?token=|User-Agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/za/DisneyJunior.za.png",Disney Junior
 #EXTINF:-1 tvg-id="Cartoon Network Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network Hindi
+http://node97425-techmax-live.in1.bitmana.io/Jiotv/autoq.php?c=Cartoon_Network_Hindi
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets.rstream.me/images/t/IsScNhCCed.png",Cartoon Network HD+
 #EXTINF:-1 tvg-id="Nick Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",Nick Hindi
+http://node97425-techmax-live.in1.bitmana.io/Jiotv/autoq.php?c=Nick_Hindi
 #EXTINF:-1 tvg-id="Pogo Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png",POGO Hindi
+http://node97425-techmax-live.in1.bitmana.io/Jiotv/autoq.php?c=Pogo_Hindi
 
