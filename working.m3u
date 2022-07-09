@@ -2,6 +2,7 @@
 #EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png",&TV HD
 https://nayeem-parvez.tk/zeppytv/m3u8.php?c=0-9-tvhd_0
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"",Zee TV HD
+http://nayeem-parvez.hopto.org/aq-nayeem-jiotv.php?c=Zee_TV_HD
 #EXTINF:-1 tvg-id="starplushd.in" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/starplushd.png",Star Plus HD
 http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="starplushd.in" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/starplussd.png",Star Plus
@@ -36,8 +37,6 @@ https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3
 https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 #EXTINF:-1 tvg-id="155" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_HD.png",Sony Six HD
 https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Lemonbhoi123/lemon-bhai-ki-m3u.m3u/main/tata-ipl-logo-png.png",TATA IPL
-https://live.ambaniuncle.tk/hotstar/samsung/api.m3u8?lang=hin|Referer=https://www.hotstar.com/
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/Star%20Sports%201%20HD%20HINDI%20(NEW).png",Star Sports 1 HD (Hindi)
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/PicsArt_11-28-02.40.50.png",Star Sports 1 HD
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/Star%20Sports%202%20HD.png",Star Sports 2 HD
@@ -143,7 +142,13 @@ https://weblive.republicworld.com/httppush/ottr_republic_english/chunklist_2.m3u
 https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/chunklist_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-206/channel_web/1170x658withlogo_740756490.png",News24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png",Sonic Hindi
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999012&videoid=1318&vootid=1318&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiJXcnB4eFg3RVp0UEpZR1Q4d05Yak9aYlpXbWoxIiwiZW1haWwiOiJzYWdhcnZhbnRpbWFyQGdtYWlsLmNvbSIsImtVc2VySWQiOiIyMzc3NzIyMTQiLCJkZXZpY2VJZCI6IjNmZGVmNjQzLTEzMzQtNDRhNi1hNmZkLTZkN2VlNGRmNjJmZSIsInBhcnRuZXJUeXBlIjoiIiwiaWF0IjoxNjU2OTU1NDk4LCJleHAiOjE2NTc4MTk0OTgsImlzcyI6InZvb3QifQ.d4sv7U84fZw5j-ZFQSme_zFf4ftfLCah0VCWdKEFcmw
+https://jiolivestreaming.akamaized.net/bpk-tv/Sonic_Nickelodeon_voot_MOB/output/index.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="IN| HUNGAMA TV HD" tvg-logo="https://static.epg.best/in/Hungama.in.png",Hungama TV
 http://31.172.87.31:2200/R-EX/KIDS_Hungama_TV-in/index.m3u8?token=|User-Agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="" tvg-name="IN| HUNGAMA TV HD" tvg-logo="https://static.epg.best/in/Hungama.in.png",Hungama TV
@@ -154,6 +159,10 @@ http://89.187.162.109/MARVEL/mono.m3u8
 http://31.172.87.31:2200/R-EX/KIDS_Disney_TV-in/index.m3u8?token=|User-Agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/za/DisneyJunior.za.png",Disney Junior
 #EXTINF:-1 tvg-id="Cartoon Network Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network Hindi
+http://nayeem-parvez.hopto.org/aq-nayeem-jiotv.php?c=Cartoon_Network_Hindi
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets.rstream.me/images/t/IsScNhCCed.png",Cartoon Network HD+
+http://nayeem-parvez.hopto.org/aq-nayeem-jiotv.php?c=CN_HD_English
 #EXTINF:-1 tvg-id="Nick Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",Nick Hindi
+http://nayeem-parvez.hopto.org/aq-nayeem-jiotv.php?c=Nick_Hindi
 #EXTINF:-1 tvg-id="Pogo Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png",POGO Hindi
+http://nayeem-parvez.hopto.org/aq-nayeem-jiotv.php?c=Pogo_Hindi
