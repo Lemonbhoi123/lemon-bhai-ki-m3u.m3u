@@ -6,8 +6,10 @@ http://167.71.235.179/plesk-site-preview/vigorous-spence.167-71-235-179.plesk.pa
 #EXTINF:-1 tvg-id="starplushd.in" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/starplushd.png",Star Plus HD
 http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="starplushd.in" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/starplussd.png",Star Plus
+http://0nelivezer0.rbtvnw.com:21190/juno/starplus/playlist.m3u8
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20BHARAT%20HD.png",Star Bharat HD
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20BHARAT.png",Star Bharat
+http://0nelivezer0.rbtvnw.com:21190/juno/starbharat/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://akamaividz.zee5.com/resources/0-9-250/list/386x386/09250ddnationalhd.png",DD National
 http://144.217.70.181:9587/hin2/DDNATIONAL/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="0-9-ddbharati" tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddbharati/list/386x386/09ddbharatiddbharati.png",DD Bharati
@@ -66,7 +68,11 @@ https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
 http://167.71.235.179/plesk-site-preview/vigorous-spence.167-71-235-179.plesk.page/https/167.71.235.179/Ishan.php?c=And_Pictures_HD&q=1200&e=ishan.m3u8
 #EXTINF:-1 tvg-id="0-9-pictures" tvg-logo="https://raw.githubusercontent.com/Lemonbhoi123/lemon-bhai-ki-m3u.m3u/main/%26Pictures.png",&Pictures
 #EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
+http://0nelivezer0.rbtvnw.com:21190/juno/zeecinemahd/playlist.m3u8
+#EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
 http://167.71.235.179/plesk-site-preview/vigorous-spence.167-71-235-179.plesk.page/https/167.71.235.179/Ishan.php?c=Zee_Cinema_HD&q=1200&e=ishan.m3u8
+#EXTINF:-1 tvg-id="0-9-zeecinema" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png",Zee Cinema
+http://0nelivezer0.rbtvnw.com:21190/juno/zeecinema/playlist.m3u8
 #EXTINF:-1 tvg-id="0-9-zeecinema" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png",Zee Cinema
 http://167.71.235.179/plesk-site-preview/vigorous-spence.167-71-235-179.plesk.page/https/167.71.235.179/Ishan.php?c=Zee_Cinema&q=1200&e=ishan.m3u8
 #EXTINF:-1 tvg-id="0-9-zeeaction" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_web/1170x658withlog_1953200347.png",Zee Action
@@ -123,6 +129,8 @@ https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/chunklist_2.m3
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png",Sonic Hindi
 http://167.71.235.179/plesk-site-preview/vigorous-spence.167-71-235-179.plesk.page/https/167.71.235.179/Ishan.php?c=sonic_Hindi&q=1200&e=ishan.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN| HUNGAMA TV HD" tvg-logo="https://static.epg.best/in/Hungama.in.png",Hungama TV
+http://0nelivezer0.rbtvnw.com:21190/neptune/hungamahindi/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN| HUNGAMA TV HD" tvg-logo="https://static.epg.best/in/Hungama.in.png",Hungama TV
 http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Lemonbhoi123/lemon-bhai-ki-m3u.m3u/main/SuperHungama.png",Super Hungama
