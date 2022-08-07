@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/mitthu786/tvepg/releases/download/latest/epg.xml.gz"
+#EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
 #EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png",&TV HD
 http://167.71.235.179/plesk-site-preview/vigorous-spence.167-71-235-179.plesk.page/https/167.71.235.179/Ishan.php?c=And_TV_HD&q=1200&e=ishan.m3u8
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"",Zee TV HD
