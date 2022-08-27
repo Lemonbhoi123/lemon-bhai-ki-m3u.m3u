@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
 #EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png",&TV HD
+http://ranapk.1.mywebsites.link/zee5/z5RanaPk.php?c=0-9-tvhd_0
+#EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png",&TV HD
 http://tv.googledrivelinks.com:8088/live.php?c=And_TV_HD&q=1200&e=.m3u8
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"",Zee TV HD
 http://tv.googledrivelinks.com:8088/live.php?c=Zee_TV_HD&q=1200&e=.m3u8
@@ -14,6 +16,8 @@ https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 #EXTINF:-1 tvg-id="474" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_pal.png",Sony Pal
 https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+#EXTINF:-1 tvg-id="144" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
+https://jiolivestreaming.akamaized.net/bpk-tv/Colors_HD_voot_MOB/output03/index.m3u8?hdnts=st=1661573947~exp=1661660347~acl=/*~hmac=e58bfad7b16409c5db3ffbf9058b6f6fdc36f58e8c2fd7063bc2f15310db35c2
 #EXTINF:-1 tvg-id="144" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 http://tv.googledrivelinks.com:8088/live.php?c=Colors_HD&q=1200&e=.m3u8
 #EXTINF:-1 tvg-id="162" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_HD.png",Sony Ten 1 HD
@@ -53,10 +57,17 @@ https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5492474426001.png,Sony Max
 https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
 #EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://assets.rstream.me/images/j/lWYvzXvdTw.png",&Pictures HD
+http://ranapk.1.mywebsites.link/zee5/z5RanaPk.php?c=0-9-tvpictureshd
+#EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://assets.rstream.me/images/j/lWYvzXvdTw.png",&Pictures HD
 http://tv.googledrivelinks.com:8088/live.php?c=And_Pictures_HD&q=1200&e=.m3u8
 #EXTINF:-1 tvg-id="0-9-pictures" tvg-logo="https://raw.githubusercontent.com/Lemonbhoi123/lemon-bhai-ki-m3u.m3u/main/%26Pictures.png",&Pictures
+http://ranapk.1.mywebsites.link/zee5/z5RanaPk.php?c=0-9-tvpictureshd
+#EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
+http://ranapk.1.mywebsites.link/zee5/z5RanaPk.php?c=0-9-zeecinemahd
 #EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
 http://tv.googledrivelinks.com:8088/live.php?c=Zee_Cinema_HD&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-zeecinema" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png",Zee Cinema
+http://ranapk.1.mywebsites.link/zee5/z5RanaPk.php?c=0-9-zeecinema
 #EXTINF:-1 tvg-id="0-9-zeecinema" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png",Zee Cinema
 http://tv.googledrivelinks.com:8088/live.php?c=Zee_Cinema&q=1200&e=.m3u8
 #EXTINF:-1 tvg-id="0-9-zeeaction" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_web/1170x658withlog_1953200347.png",Zee Action
@@ -71,7 +82,11 @@ https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 http://tv.googledrivelinks.com:8088/live.php?c=Color_Cineplex_HD&q=1200&e=.m3u8
 #EXTINF:-1 tvg-id="1992" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",Colors Cineplex
 #EXTINF:-1 tvg-id="1792" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",Colors Cineplex Bollywood
+https://jiolivestreaming.akamaized.net/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/output03/index.m3u8?hdnts=st=1661574151~exp=1661660551~acl=/*~hmac=b10e3d0fe76f9d7c75cd7115a339e8fbf907c9858610918fe8218fdb127d297d
+#EXTINF:-1 tvg-id="1792" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",Colors Cineplex Bollywood
 http://tv.googledrivelinks.com:8088/live.php?c=Colors_Cineplex_Bollywood&q=800&e=.m3u8
+#EXTINF:-1 tvg-id="1628" tvg-name="Rishtey Cineplex" tvg-logo="https://raw.githubusercontent.com/Lemonbhoi123/lemon-bhai-ki-m3u.m3u/main/ColorCineplexSuperHit.png",Colors Cineplex Superhits
+https://jiolivestreaming.akamaized.net/bpk-tv/Rishtey_Cineplex_voot_MOB/output03/index.m3u8?hdnts=st=1661574515~exp=1661660915~acl=/*~hmac=2c5471e839c9d1801a1ebadfd75bd9952fb97662b31b6275dc37e6b379766068
 #EXTINF:-1 tvg-id="1628" tvg-name="Rishtey Cineplex" tvg-logo="https://raw.githubusercontent.com/Lemonbhoi123/lemon-bhai-ki-m3u.m3u/main/ColorCineplexSuperHit.png",Colors Cineplex Superhits
 http://tv.googledrivelinks.com:8088/live.php?c=Rishtey_Cineplex&q=800&e=ishan.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://akamaividz.zee5.com/resources/0-9-131/list/386x386/091319xm.png",9XM
