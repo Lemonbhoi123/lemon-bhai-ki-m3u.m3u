@@ -63,11 +63,11 @@ https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png,Sony Max
 https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
 #EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://assets.rstream.me/images/j/lWYvzXvdTw.png",&Pictures HD
-http://223.29.231.66:8000/play/a00k/index.m3u8
-#EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://assets.rstream.me/images/j/lWYvzXvdTw.png",&Pictures HD
 http://iamsom69.herokuapp.com/zee5.php?id=0-9-tvpictureshd
 #EXTINF:-1 tvg-id="0-9-pictures" tvg-logo="https://raw.githubusercontent.com/Lemonbhoi123/lemon-bhai-ki-m3u.m3u/main/%26Pictures.png",&Pictures
 http://iamsom69.herokuapp.com/zee5.php?id=0-9-pictures
+#EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
+http://223.29.231.66:8000/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
 http://iamsom69.herokuapp.com/zee5.php?id=0-9-zeecinemahd
 #EXTINF:-1 tvg-id="0-9-zeecinema" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png",Zee Cinema
@@ -81,7 +81,7 @@ https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 #EXTINF:-1 tvg-id="482" tvg-logo="https://snoidcdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png",Colors Cineplex HD
 https://iamsomx.herokuapp.com/voot.php?url=https://www.voot.com/live/cineplex-hd/805990
 #EXTINF:-1 tvg-id="1992" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",Colors Cineplex
-#EXTINF:-1 tvg-id="1628" tvg-name="Rishtey Cineplex" tvg-logo="https://raw.githubusercontent.com/Lemonbhoi123/lemon-bhai-ki-m3u.m3u/main/ColorCineplexSuperHit.png",Colors Cineplex Superhits
+#EXTINF:-1 tvg-id="1628" tvg-name="Rishtey Cineplex" tvg-logo="https://raw.githubusercontent.com/Lemonbhoi123/lemon-bhai-ki-m3u.m3u/main/ColorCineplexSuperHit.png",Colors Cineplex Superhit
 https://iamsomx.herokuapp.com/voot.php?url=https://www.voot.com/live/colors-cineplex-superhits/979936
 #EXTINF:-1 tvg-id="1792" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",Colors Cineplex Bollywood
 https://iamsomx.herokuapp.com/voot.php?url=https://www.voot.com/news/colors-cineplex-bollywood-live/1155809
