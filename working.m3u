@@ -3,15 +3,13 @@
 #EXTINF:-1 tvg-id="And TV HD" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png",&TV HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
 #EXTINF:-1 tvg-id="And TV HD" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png",&TV HD
-http://ninjatv.lol/TS/app/live.php?id=472&e=.m3u8
+https://ninjatv.lol/ZIO/app/strmm.php?cid=472&id=And_TV_HD_MOB-audio_98835_eng=98800-video=1173600.m3u8
+#EXTINF:-1 tvg-id="And TV HD" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png",&TV HD
+https://sanjibweb.me/jiaa/jio.m3u8/strmm.php?cid=472&id=And_TV_HD_MOB-audio_98835_eng=98800-video=1173600.m3u8
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"",Zee TV HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"",Zee TV HD
-http://ninjatv.lol/TS/app/live.php?id=167&e=.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=8&key
-#EXTINF:-1 tvg-id="STARPLUS HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/starplushd.png",StarPlus HD
-http://rftv.wtf/tp/rjiptv.mpd?contentID=8
+https://ninjatv.lol/ZIO/app/strmm.php?cid=167&id=Zee_TV_HD_MOB-audio_98835_eng=98800-video=2906400.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.mpd?contentID=8
@@ -19,14 +17,19 @@ http://rftv.wtf/tp/rjiptv.mpd?contentID=8
 https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=244&key
-#EXTINF:-1 tvg-id="STAR BHARAT HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20BHARAT%20HD.png",Star Bharat HD
-http://rftv.wtf/tp/rjiptv.mpd?contentID=244
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=8&key
+#EXTINF:-1 tvg-id="STARPLUS HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/starplushd.png",StarPlus HD
+http://rftv.wtf/tp/rjiptv.mpd?contentID=8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.mpd?contentID=244
 #EXTINF:-1 tvg-id="STAR BHARAT HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20BHARAT%20HD.png",Star Bharat HD
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_411/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=244&key
+#EXTINF:-1 tvg-id="STAR BHARAT HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20BHARAT%20HD.png",Star Bharat HD
+http://rftv.wtf/tp/rjiptv.mpd?contentID=244
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://akamaividz.zee5.com/resources/0-9-250/list/386x386/09250ddnationalhd.png",DD National
 #EXTINF:-1 tvg-id="291" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png",Sony HD
@@ -49,14 +52,14 @@ https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3
 https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=24&key
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/Star%20Sports%201%20HD%20HINDI%20(NEW).png",Star Sports 1 HD (Hindi)
-http://rftv.wtf/tp/rjiptv.mpd?contentID=24
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.mpd?contentID=24
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/Star%20Sports%201%20HD%20HINDI%20(NEW).png",Star Sports 1 HD (Hindi)
 https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=24&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/Star%20Sports%201%20HD%20HINDI%20(NEW).png",Star Sports 1 HD (Hindi)
+http://rftv.wtf/tp/rjiptv.mpd?contentID=24
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/PicsArt_11-28-02.40.50.png",Star Sports 1 HD
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/Star%20Sports%202%20HD.png",Star Sports 2 HD
@@ -65,14 +68,14 @@ https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifes
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Lemonbhoi123/lemon-bhai-ki-m3u.m3u/main/StarSportsSelect2HD.png",Star Sports Select 2 HD
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=245&key
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20GOLD%20HD.png",Star Gold HD
-http://rftv.wtf/tp/rjiptv.mpd?contentID=245
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.mpd?contentID=245
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20GOLD%20HD.png",Star Gold HD
 https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_412/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=245&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/STAR%20GOLD%20HD.png",Star Gold HD
+http://rftv.wtf/tp/rjiptv.mpd?contentID=245
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/stargoldselecthd.png",Star Gold Select HD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/channel-logo/main/UTV%20HD.png",UTV HD
@@ -89,19 +92,19 @@ https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
 #EXTINF:-1 tvg-id="And Pictures HD" tvg-logo="https://assets.rstream.me/images/j/lWYvzXvdTw.png",&Pictures HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
 #EXTINF:-1 tvg-id="And Pictures HD" tvg-logo="https://assets.rstream.me/images/j/lWYvzXvdTw.png",&Pictures HD
-http://ninjatv.lol/TS/app/live.php?id=185&e=.m3u8
+https://ninjatv.lol/ZIO/app/strmm.php?cid=185&id=And_Pictures_HD_MOB-audio_98835_eng=98800-video=1173600.m3u8
 #EXTINF:1 tvg-id="And Pictures" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures.png",&Pictures
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/index.m3u8
 #EXTINF:1 tvg-id="And Pictures" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures.png",&Pictures
-http://ninjatv.lol/TS/app/live.php?id=1839&e=.m3u8
+https://ninjatv.lol/ZIO/app/strmm.php?cid=1839&id=And_Pictures_MOB-audio_98834_eng=98800-video=1680400.m3u8
 #EXTINF:-1 tvg-id="165" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
 #EXTINF:-1 tvg-id="165" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
-http://ninjatv.lol/TS/app/live.php?id=165&e=.m3u8
+https://ninjatv.lol/ZIO/app/strmm.php?cid=165&id=Zee_Cinema_HD_MOB-audio_98835_eng=98800-video=2906400.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png",Zee Cinema
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png",Zee Cinema
-http://ninjatv.lol/TS/app/live.php?id=484&e=.m3u8
+https://ninjatv.lol/ZIO/app/strmm.php?cid=484&id=Zee_Cinema_MOB-audio_98835_mar=98800-video=1680400.m3u8
 #EXTINF:-1 tvg-id="0-9-zeeaction" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_web/1170x658withlog_1953200347.png",Zee Action
 #EXTINF:-1 tvg-id="0-9-176" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/star-sports-logo/main/ZeeClassic.png",Zee Classic
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_WAH.png",Sony Wah
@@ -111,7 +114,7 @@ https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png",Colors Cineplex HD 
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="482" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",Colors Cineplex
-http://ninjatv.lol/TS/app/live.php?id=482&e=.m3u8
+https://ninjatv.lol/ZIO/app/strmm.php?cid=482&id=Colors_Cineplex_MOB-audio_98836_eng=98800-video=1680400.m3u8
 #EXTINF:1 tvg-id="1450" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",Colors Cineplex Superhit
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="1792" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",Colors Cineplex Bollywood
@@ -123,7 +126,10 @@ https://epiconvh.s.llnwi.net/showbox/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mastiii" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/UTV-HD.png/main/Mastiii.png",Mastiii
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/Lemonbhoi123/lemon-bhai-ki-m3u.m3u/main/Picsart_22-03-02_22-33-08-896.png",ZOOM
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com//dare_images//images//MTV_HD_Plus.png",MTV HD+
+https://prod-sports-north-gm.jiocinema.com//bpk-tv//MTV_HD_Plus_voot_MOB//Fallback//index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",MTV Beats HD
+https://prod-sports-north-gm.jiocinema.com//bpk-tv//MTV_Beats_HD_voot_MOB//Fallback//index.m3u8
 #EXTINF:-1 tvg-name="iLove" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/iLove.png", iLove
 #EXTINF:-1 tvg-id="" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zing/channel_web/1170x658withlogo_895666865.png" ,Zing
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2c/Aaj_Tak_Logo.png",Aaj Tak
@@ -133,7 +139,9 @@ https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.
 #EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_BHARATVARSH.png",TV9 Bharatvarsh
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png",News Nation
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Newsnation/default/newsnation-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-272/channel_web/indianews_1982216031.png",India News
+https://livetv.newsx.com/itv/itvnetwork5/playlist.m3u8
 #EXTINF: -1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png",ABP News
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/ZeeNews.in.png",Zee News 
@@ -152,55 +160,39 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fal
 http://itspkg.tk/ulpl/play.php?tv=4019
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=587&key
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Lemonbhoi123/lemon-bhai-ki-m3u.m3u/main/SuperHungama.png",Super Hungama
-http://rftv.wtf/tp/rjiptv.mpd?contentID=587
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.mpd?contentID=587
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Lemonbhoi123/lemon-bhai-ki-m3u.m3u/main/SuperHungama.png",Super Hungama
 https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_781/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=114&key
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/DisneyChannel.in.png",Disney
-http://rftv.wtf/tp/rjiptv.mpd?contentID=114
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=587&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Lemonbhoi123/lemon-bhai-ki-m3u.m3u/main/SuperHungama.png",Super Hungama
+http://rftv.wtf/tp/rjiptv.mpd?contentID=587
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.mpd?contentID=114
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/DisneyChannel.in.png",Disney
 https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=114&key
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/DisneyChannel.in.png",Disney
+http://rftv.wtf/tp/rjiptv.mpd?contentID=114
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/DisneyChannel.in.png",Disney
 https://kingkohli.pages.dev/Play/DisneyHD_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/za/DisneyJunior.za.png",Disney Junior
-#EXTINF:-1 tvg-id="Cartoon Network Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png",Cartoon Network Hindi
+#EXTINF:-1 tvg-id="Cartoon Network Hindi" tvg-logo="https://raw.githubusercontent.com/Lemonbhoi123/lemon-bhai-ki-m3u.m3u/main/CartoonNetwork.png",Cartoon Network Hindi
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png",Cartoon Network Hindi
-http://ninjatv.lol/TS/app/live.php?id=166&e=.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://proxy.uat.widevine.com/proxy?provider=widevine_test
-#EXTINF:-1 tvg-id="Cartoon Network Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png",Cartoon Network Hindi
+#EXTINF:-1 tvg-id="Cartoon Network Hindi" tvg-logo="https://raw.githubusercontent.com/Lemonbhoi123/lemon-bhai-ki-m3u.m3u/main/CartoonNetwork.png",Cartoon Network Hindi
 https://sports247.eu.org/app/strmm.php?cid=816&id=Cartoon_Network_Hindi_MOB-audio_33644_hin=33600-video=1680400.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets.rstream.me/images/t/IsScNhCCed.png",Cartoon Network HD+
 #EXTINF:-1 tvg-id="Nick Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2560px-Nick.svg.png",Nick Hindi
-http://ninjatv.lol/TS/app/live.php?id=545&e=.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://proxy.uat.widevine.com/proxy?provider=widevine_test
-#EXTINF:-1 tvg-id="Nick Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2560px-Nick.svg.png",Nick Hindi
 https://sports247.eu.org/app/strmm.php?cid=545&id=Nick_Hindi_MOB-audio_98841_hin=98800-video=1680400.m3u8
-
 #EXTINF:-1 tvg-id="Pogo Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/POGO-logo.svg/2560px-POGO-logo.svg.png",POGO Hindi
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="Pogo Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/POGO-logo.svg/2560px-POGO-logo.svg.png",POGO Hindi
-http://ninjatv.lol/TS/app/live.php?id=559&e=.m3u8
+https://sports247.eu.org/app/live.php?id=559&e=.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://proxy.uat.widevine.com/proxy?provider=widevine_test
-#EXTINF:-1 tvg-id="Pogo Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/POGO-logo.svg/2560px-POGO-logo.svg.png",POGO Hindi
-https://sports247.eu.org/app/strmm.php?cid=559&id=Pogo_Hindi_MOB-audio_33637_hin=33600-video=1680400.m3u8
-https://ninjatv.lol/ZIO/app/strmm.php?cid=144&id=Colors_HD_MOB-audio_33636_eng=33600-video=148000.m3u8
-https://ninjatv.lol/ZIO/app/live.php?id=144&e=.m3u8
+
+
